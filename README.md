@@ -354,12 +354,3 @@ The table shows performance across different models on **uncertain data segments
 👉 This demonstrates the **real-world value of uncertainty estimation**, especially in financial risk scenarios.
 
 
----
-
-## 🚀 Future Improvements
-
-* Improve scalability for large datasets
-* Add more advanced Bayesian methods
-* Integrate real-time prediction pipeline
-* Add visualization dashboard
-

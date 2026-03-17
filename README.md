@@ -1,4 +1,8 @@
 # 🔍 Uncertainty Estimation in Machine Learning
+![Python](https://img.shields.io/badge/Python-3.8+-blue)
+![XGBoost](https://img.shields.io/badge/XGBoost-Used-orange)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Used-yellow)
+![Status](https://img.shields.io/badge/Status-Active-green)
 
 ## 📌 Overview
 
